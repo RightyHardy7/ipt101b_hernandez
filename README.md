@@ -1,4 +1,3 @@
-# ipt101b_hernandez
 # Hernandez's Project
 Name: Arthe Raphael G. Hernandez Age: 19 years old Address: 0057 Matig-a st, Poblacion III, Tagbilaran City, Bohol 
 ## Author
