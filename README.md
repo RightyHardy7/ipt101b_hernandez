@@ -8,3 +8,4 @@ printf("hello world!");
 - Step 1: Download the zip file or use git clone
 - Step 2: Install the zip
 - Step 4: Open the app and read the instructions 
+- Step 5: Use the app carefully 
