@@ -7,3 +7,4 @@ printf("hello world!");
 ## How to install 
 - Step 1: Download the zip file or use git clone
 - Step 2: Install the zip
+- Step 3: Open the app
