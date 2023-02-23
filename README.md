@@ -9,3 +9,6 @@ printf("hello world!");
 - Step 2: Install the zip
 - Step 4: Open the app and read the instructions 
 - Step 5: Use the app carefully 
+## New Feature
+- 1. Git Branch
+- 2. Git Merge
